@@ -55,6 +55,8 @@ The dashboard is designed with **two themes (Light & Dark)** to meet stakeholder
 🌙 **Dark Theme**  
 ![Dark Theme Dashboard](https://github.com/Jia-Menahil/CustomerPerformanceAnalysis_PowerBi/blob/main/Dark%20Theme%20Dashboard.png)  
 
+---
+
 ## Connect with me 
 🙋 Author: Jia Menahil Rasheed
 
